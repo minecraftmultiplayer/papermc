@@ -1,0 +1,1 @@
+Base made with: https://openapi-generator.tech/.
