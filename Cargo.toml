@@ -1,5 +1,5 @@
 [package]
-name = "papermc"
+name = "mcmp_papermc"
 edition = "2024"
 
 [dependencies]
